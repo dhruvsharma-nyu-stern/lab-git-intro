@@ -1,2 +1,2 @@
 # lab-git-intro
-Intro to GutHub
+Intro to GitHub
